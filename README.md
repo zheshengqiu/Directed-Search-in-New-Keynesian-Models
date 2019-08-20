@@ -1,2 +1,11 @@
 # Directed-Search-in-New-Keynesian-Models
-code and results for the project
+
+Interactive guide to Qiu and Rios-Rull (2019):
+ "Procyclical Markup: Directed Search in New Keynesian Models".
+
+## 1. Resources
+
+- [Draft]
+- [Beamber slides]
+- Structural VAR
+- Median Scale DSGE
